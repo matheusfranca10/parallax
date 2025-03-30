@@ -1,5 +1,3 @@
-# Parallax
-
 ## Sobre o Projeto
 
 Este repositório foi criado para **praticar e estudar** a implementação do efeito Parallax utilizando **HTML** e **CSS**. O efeito Parallax cria uma sensação de profundidade ao mover elementos de fundo e conteúdo em velocidades diferentes durante o scroll da página.
